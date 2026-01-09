@@ -281,7 +281,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 CalculatorButton(
                   callBack: btnOnClick,
-                  text: "0",
+                  text: "0.0",
                   fillColor: 0xFF8ac4d0,
                   textColor: 0xFF000000,
                   textSize: 24,
